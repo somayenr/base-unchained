@@ -1,16 +1,6 @@
 # base-unchained
 ## Introduction to Base Network
 
-![Image](https://images.openai.com/static-rsc-4/VJ77BOWQFz_1G45a5TOrhbvwYzW7OwiyeZ6YgV6HFUCjTqTEjcx7ZRuNwMvv3RNu69gdZ4M0WhNaSDYFWOA_Vo35KGbxR2GkYev83wEAvyWZ1PxltNBBf6P4BSMNCkxm-pIuUoex3xkG8nS921_gGZcszLtU4J5ejQbqN0k2XIZ4UgEbEC1THg_gI1UST1Gl?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/C0SvKDl9dtoOCCmDlq4bY4kpehD83SK-tj5im06C440zpEITQIrv2DQeVAJz2kd_Y8yLiT_8jD7Vb4aeRI3bQkGCeJvNiBPsS7EOJpkgr6Mj8CU5HuiH7C9E2-r8exUeRqUNQb0i8DHnuQJlnIor1YQP5mAyp-Rws_D0_voFtmeBR_kQ3KvnBx0jDxRrC-lo?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/5GUgtQeQG5SkehRoembqJLURjCippWp4MbNYykKBC2XEj77__xs48nXHs2dVggMrrtyHYno0rQG2BZydDlMaGD_Y6iY3byAx4Jl-a6K74GeEyxO-DJaIjUyR49V6RJijO-vUx60xNgaR99jgIUrfh3KCSnUAqlod97N-71FiID1gUFljswx7IxDey5_WPZM9?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/dJq23I1DEo4IKDU986Uy_q8XEnsQsuGa2NXM_FkV1EDpumrXHsDmqA5EefXq3fkjbb7hPT63Vqbq_Ldl8ElvIVAuz3Y-wSvlPtJqOESmiT70tXUesaUzoaSazXR_54AlrtODt5LCpY-xdzp80BSm9WTvhUzwdHeJ1wAjMHZKLtyDCqcUgwqTiFPpemaCyAhP?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/E1UDkkABRAN_I1xTBKH3gj7kOBesQzC6vfY86mC2LQTlCfKcaasSPygm26zk8srRTGeHgLN1L4YUET3obkB1dYcf9ElSZ26lSgGHKXrYsPS2QlFllqIFLuUMO3AO8b-TeJyybqHtS5y22jJKkBXlUXcKERIRSPOGcFjSqKol2Yh-HDMNHtJpgH5j93HjxGOs?purpose=fullsize)
-
 **Base** is an Ethereum Layer 2 (L2) blockchain developed by [Coinbase](https://www.coinbase.com?utm_source=chatgpt.com) and launched in 2023. It is designed to make blockchain transactions faster, cheaper, and more accessible while inheriting the security of the Ethereum mainnet.
 
 ### Why was Base created?
