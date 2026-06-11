@@ -104,5 +104,3 @@ Since you have experience with on-chain analytics, interesting metrics to analyz
 * Coinbase user onboarding patterns
 
 These metrics can make excellent dashboards on platforms such as [Dune Analytics](https://dune.com?utm_source=chatgpt.com) or [Flipside Crypto](https://flipsidecrypto.xyz?utm_source=chatgpt.com).
-
-If you'd like, I can also explain **how Base generates revenue, how sequencers work, and how to analyze Base blockchain data using SQL**.
